@@ -3,7 +3,6 @@
 I'm Hemant from India, and I do Design and Development. I really enjoy learning languages and frameworks like Bootstrap and React. 
 
 ## Skills and Experience
-* ⚛ React
 * 💻 HTML, CSS, JS
 
 
